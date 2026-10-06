@@ -57,7 +57,7 @@ admin.site.register(vehicle,vehicleAdmin)
 
 ```
 ## OUTPUT
-![alt text](image-1.png)
+![alt text](image.png)
 
 
 ## RESULT
